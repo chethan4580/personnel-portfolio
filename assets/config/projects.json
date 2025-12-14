@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Recruitment Automation System",
+      "description": "An AI-powered recruitment system that automates resume screening, candidate evaluation, and shortlisting using intelligent agent-based workflows to improve hiring efficiency.",
+      "technologies": [
+        "Python",
+        "LangChain",
+        "CrewAI",
+        "OpenAI APIs",
+        "n8n Automation"
+      ],
+      "category": "automation",
+      "image": "./assets/projects/AI-Recruitment.jpeg",
+      "githubUrl": "https://github.com/rushhiii/Scriptable-IOSWidgets",
+      "liveUrl": "https://rushhiii.github.io/Scriptable-IOSWidgets/",
+      "liveLabel": "Docs",
+      "liveIcon": "fas fa-book",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Intelligent Appointment Scheduling Platform",
+      "description": "A smart appointment scheduling platform with automated booking, notifications, and backend management, designed to streamline scheduling workflows using automation tools.",
+      "technologies": [
+        "n8n",
+        "Supabase",
+        "Retell AI",
+        "Workflow Automation"
+      ],
+      "category": "web",
+      "image": "./assets/projects/Appointment.png",
+      "githubUrl": "https://github.com/rushhiii/Rushi-Bashfolio",
+      "liveUrl": "https://rushi-bashfolio.netlify.app",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "RAG-Based Hospital Operations Assistant",
+      "description": "A retrieval-augmented AI assistant that answers hospital administrative and operational queries by grounding responses in authorized documents and structured hospital data.",
+      "technologies": [
+        "LangChain",
+        "LlamaIndex",
+        "RAG Systems",
+        "Vector Databases",
+        "n8n"
+      ],
+      "category": "automation",
+      "image": "./assets/projects/RAG.jpg",
+      "githubUrl": "https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/Widgets/GitHubStats%20Widget/MyGitHubStats.js",
+      "liveUrl": "https://rushhiii.github.io/Scriptable-IOSWidgets/widgets/github-stats-widget.html",
+      "liveLabel": "Docs",
+      "liveIcon": "fas fa-book",
+      "featured": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "icon": "fa-solid fa-diagram-project",
+      "visible": true
+    },
+    {
+      "id": "education",
+      "name": "Educational",
+      "icon": "fa-solid fa-graduation-cap",
+      "visible": false
+    }
+  ]
+}
