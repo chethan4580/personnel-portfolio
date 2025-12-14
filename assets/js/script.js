@@ -975,7 +975,7 @@ class PortfolioApp {
        
 
         return buttons.join('');
-    }
+    } 
 
     setActiveFilter(activeBtn) {
         document.querySelectorAll('.filter-btn').forEach(btn => {
