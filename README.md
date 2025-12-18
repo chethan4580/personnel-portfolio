@@ -3,8 +3,8 @@
 A modern, responsive personal portfolio website showcasing my **profile, projects, and skills** as an **AI & Data Science student**.  
 Built using **HTML, CSS, and JavaScript**, featuring smooth animations, dark/light theme support, and a working contact form.
 
-🔗 **Live Portfolio:** https://rushii-portfolio.netlify.app  
-💻 **GitHub Repository:** https://github.com/rushhiii/portfolio  
+🔗 **Live Portfolio:** https://chethan4580.github.io/personnel-portfolio/
+💻 **GitHub Repository:** https://github.com/chethan4580
 
 ---
 
@@ -77,7 +77,7 @@ portfolio/
 ## ⚙️ Local Setup
 
 ```bash
-git clone https://github.com/rushhiii/portfolio.git
+git clone https://chethan4580.github.io/personnel-portfolio/
 cd portfolio
 ```
 
